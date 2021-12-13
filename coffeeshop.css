@@ -1,0 +1,81 @@
+.footer{
+	background-color: #272727;
+	color: white;
+	height: 100px;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.coffee{
+	list-style-type: square;
+}
+
+
+
+.available{
+	color: green;
+	height: 300px;
+	width: 300px;
+}
+
+.out{
+	border-top-style:dotted;
+	border-top-width: 2px;
+	border-top-color: red;
+
+	border-bottom-style: dotted;
+	border-bottom-width: 2px;
+	border-bottom-color: green;
+
+	font-style: italic;
+	font-family: Georgia;
+	font-size: 17px; 
+}
+
+.img2{
+	height: 80%;
+	width: 100%;
+
+}
+
+.in{
+	border: 4px double green;
+}
+
+.img1{
+    height: 80%;
+    width: 100%;
+}
+
+#MOCHA{
+	color: red;
+}
+
+.pricing{
+	width: 100%;
+	border: 2px solid green;
+	font-family: "Arial Black" , Gadget, sans-seriff;
+      text-align: center;
+}
+.caption{
+	color: #2979a9;
+}
+th{
+	background-color: #32a98d;
+	height: 50px;
+	color: white;
+	font-size: 22px;
+
+}
+td{
+	height: 50px;
+	font-size: 21px;
+	color: #7c4b30;
+}
+.tr-out:hover{
+background-color: red;
+}
+.tr-in:hover{
+	background-color: yellow;
+}

@@ -1,0 +1,126 @@
+body{
+	margin: 0px;
+}
+.coffee{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+	width: 100%;
+	background-color: #0a2d42;
+	z-index: 100;
+
+}
+
+.div{
+	height: 100%;
+	float: left;
+	text-align: center;
+	margin: 10px;
+}
+
+.logo{
+	display: block;
+	font-family: "Times New Roman";
+	color: white;
+	font-weight: bold;
+
+}
+
+.nav{
+	float: right;
+	height: 100%;
+
+}
+
+.nav a{
+	color: white;
+	font-size: 18px;
+	font-weight: 700;
+	
+	font-family: "Times New Roman";
+	padding-right: 20px;
+	padding-top: 30px;
+
+	display: inline-block;
+	
+}
+.line{
+	color: white;
+	font-family: "Helvetica Neue";
+	position: relative;
+	top: 10%;
+}
+.site{
+	position: absolute;
+	top: 78px;
+	width: 100%;
+}
+.image{
+	background-image: url("background-image.png");
+	height: 1200px;
+	width: 100%;
+	text-align: center;
+}
+.card-list{
+	width: 100%;
+	margin-top: 200px;
+}
+#product{
+	text-align: center;
+}
+.card{
+	width: 22%;
+	padding:1.5%;
+	height: 300px;
+	float: left;
+      text-align: center;
+}
+.card img{
+	width: 100%;
+	
+	text-align: center;
+	padding: 1.5%;
+}
+
+.order-section{
+	width: 100%;
+position: relative;
+top: 20%;
+margin-top: 300px;
+
+}
+#order{
+	text-align: center;
+	position: relative;
+top: 20%;
+ width-top:50px;
+margin-top: 300px;
+}
+.form{
+	width: 200px;
+	margin: 0 auto;
+}
+.form input{
+	padding: 10px;
+	margin: 10px;
+}
+
+.bottom{
+ 	background-color: #0a2d42;
+  padding: 20px 0 10px;
+
+	text-align: center;
+	margin-top: 200px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px 0;
+}
+
+.footer-link{
+	background-color: white;
+	margin: 0 25px;
+}
